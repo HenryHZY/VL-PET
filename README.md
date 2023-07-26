@@ -1,7 +1,7 @@
 # VL-PET
 
 <p align="center">
-    <a href="https://henryhzy.github.io/VL-PET/"><img src="images/logo.png" width="30%"></a>
+    <a href="https://henryhzy.github.io/VL-PET/"><img src="images/logo.svg" width="30%"></a>
 </p>
 
 
@@ -14,7 +14,7 @@ Authors: [Zi-Yuan Hu](https://henryhzy.github.io/)<sup>1</sup>, [Yanyang Li](htt
 </strong>
 <br></br>
 
-Project page (with more details and fun fact of our logo): https://henryhzy.github.io/VL-PET/
+Project page (with more details and fun fact of our logo): [VL-PET](https://henryhzy.github.io/VL-PET/)
 
 <a href='https://henryhzy.github.io/VL-PET'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
 <a href='https://arxiv.org/abs/xxxx.xxxx'><img src='https://img.shields.io/badge/Paper-arXiv-red'></a> 
