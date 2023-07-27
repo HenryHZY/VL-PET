@@ -12,7 +12,6 @@ Authors: [Zi-Yuan Hu](https://henryhzy.github.io/)<sup>1</sup>, [Yanyang Li](htt
 <strong>
 <sup>1</sup>The Chinese University of Hong Kong, <sup>2</sup>Shanghai AI Laboratory
 </strong>
-<br></br>
 
 Project page (with more details and fun fact of our logo): [VL-PET](https://henryhzy.github.io/VL-PET/)
 
