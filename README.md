@@ -7,12 +7,15 @@
 
 Official code for "VL-PET: Vision-and-Language Parameter-Efficient Tuning via Granularity Control" (ICCV2023)
 
-Authors: [Zi-Yuan Hu](https://henryhzy.github.io/)<sup>1</sup>, [Yanyang Li](https://scholar.google.com/citations?user=bojU9LoAAAAJ/)<sup>1</sup>, [Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)<sup>1</sup> and [Liwei Wang](https://lwwangcse.github.io/)<sup>1,2*</sup> (<sup>*</sup>Corresponding Author)
+Authors: [Zi-Yuan Hu](https://henryhzy.github.io/)<sup>1,3</sup>, [Yanyang Li](https://scholar.google.com/citations?user=bojU9LoAAAAJ/)<sup>1</sup>, [Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)<sup>1</sup> and [Liwei Wang](https://lwwangcse.github.io/)<sup>\*1,2</sup> (<sup>*</sup>Corresponding Author)
 
 <strong>
-<sup>1</sup>The Chinese University of Hong Kong, <sup>2</sup>Shanghai AI Laboratory
+<sup>1</sup>The Chinese University of Hong Kong, 
+<sup>2</sup>Centre for Perceptual and Interactive Intelligence,
+<sup>3</sup>Shanghai AI Laboratory
 </strong>
 
+<br>
 Project page (with more details and fun fact of our logo): [VL-PET](https://henryhzy.github.io/VL-PET/)
 
 <a href='https://henryhzy.github.io/VL-PET'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
