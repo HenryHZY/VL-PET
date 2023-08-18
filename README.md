@@ -10,19 +10,20 @@ Official code for "VL-PET: Vision-and-Language Parameter-Efficient Tuning via Gr
 Authors: [Zi-Yuan Hu](https://henryhzy.github.io/)<sup>1,3</sup>, [Yanyang Li](https://scholar.google.com/citations?user=bojU9LoAAAAJ/)<sup>1</sup>, [Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)<sup>1</sup> and [Liwei Wang](https://lwwangcse.github.io/)<sup>\*1,2</sup> (<sup>*</sup>Corresponding Author)
 
 <strong>
-<sup>1</sup>The Chinese University of Hong Kong, 
-<sup>2</sup>Centre for Perceptual and Interactive Intelligence,
-<sup>3</sup>Shanghai AI Laboratory
+<sup>1</sup>The Chinese University of Hong Kong<br>
+<sup>2</sup>Centre for Perceptual and Interactive Intelligence<br>
+<sup>3</sup>Shanghai AI Laboratory<br>
 </strong>
 
 <br>
-Project page (with more details and fun fact of our logo): [VL-PET](https://henryhzy.github.io/VL-PET/)
-
 <a href='https://henryhzy.github.io/VL-PET'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
 <a href='https://arxiv.org/abs/xxxx.xxxx'><img src='https://img.shields.io/badge/Paper-arXiv-red'></a> 
 <a href='https://arxiv.org/abs/xxxx.xxxx'><img src='https://img.shields.io/badge/Paper-PDF-red'></a> 
 <a href='https://opensource.org/licenses/MIT'><img src='https://img.shields.io/badge/License-MIT-yellow.svg'></a> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHenryHZY%2FVL-PET&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
+
+<br>
+Project page (with more details and fun fact of our logo): [VL-PET](https://henryhzy.github.io/VL-PET)
 
 ## Abstract
 
