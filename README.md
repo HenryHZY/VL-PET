@@ -17,8 +17,8 @@ Authors: [Zi-Yuan Hu](https://henryhzy.github.io/)<sup>1,3</sup>, [Yanyang Li](h
 
 <br>
 <a href='https://henryhzy.github.io/VL-PET'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
-<a href='https://arxiv.org/abs/xxxx.xxxx'><img src='https://img.shields.io/badge/Paper-arXiv-red'></a> 
-<a href='https://arxiv.org/abs/xxxx.xxxx'><img src='https://img.shields.io/badge/Paper-PDF-red'></a> 
+<a href='https://arxiv.org/abs/2308.09804'><img src='https://img.shields.io/badge/Paper-arXiv-red'></a> 
+<a href='https://arxiv.org/pdf/2308.09804.pdf'><img src='https://img.shields.io/badge/Paper-PDF-red'></a> 
 <a href='https://opensource.org/licenses/MIT'><img src='https://img.shields.io/badge/License-MIT-yellow.svg'></a> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHenryHZY%2FVL-PET&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
 
